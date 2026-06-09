@@ -32,6 +32,8 @@
 ## Use Case
 <img width="824" height="321" alt="ЛР1-use-case" src="https://github.com/user-attachments/assets/aca45cae-7eae-4fb5-b0f2-818a211cc58f" />
 
+## Вид приложения
+<img width="618" height="846" alt="image" src="https://github.com/user-attachments/assets/84f1fd07-e40a-4a8d-bcee-e60454f1fe07" />
 
 # Функционал
 
